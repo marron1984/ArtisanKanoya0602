@@ -31,7 +31,7 @@ captions = [
     "夜に寄り添う、奈良の地酒。",
     "火入れの妙、鴨のロースト。",
     "そして、主役の和牛へ。",
-    "世界一のディナー　—　Artisan Kanoya",
+    "世界一のディナー　—　L'Artisan Kanoya",
 ]
 # Alternate slow zoom-in / zoom-out; settle (zoom-in) on the closing brand card
 zoom_in = [True, False, True, False, True, False, True, False, True]
